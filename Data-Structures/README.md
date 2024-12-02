@@ -32,3 +32,5 @@ Data Structure:
 - Hash table
 - Graph
 
+
+There is not one behavior for different **data structures** and there is no best behavior. The point of different data structures is that you implement different behaviors for different contexts. Sometimes, it could be a list of Python not applicable and you create your own data structure. 

@@ -16,7 +16,7 @@ Welcome to the **Statistics** section dedicated to exploring the foundational co
 
 ## Overview
 
-This sub-repository focuses on the statistical methods and principles that underpin data analysis and business intelligence. It includes both theoretical explanations and practical examples to help you apply statistical techniques effectively.
+**Statistics** is the science of collecting, organizing and analyzing of data. It provides a better practice for better decision making using data. 
 
 ---
 
@@ -61,7 +61,7 @@ Here are some helpful resources to deepen your understanding:
 
 - **Books**: "Statistics for Business and Economics" by Paul Newbold et al.
 - **Online Courses**: Coursera, edX, or Khan Academy Statistics courses.
-- **Documentation**: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/)
+- **Documentation**: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://scipy.org/), [Medium](https://medium.com/@terryktee/introduction-to-statistics-for-data-science-247d11a22fd2)
 
 ---
 

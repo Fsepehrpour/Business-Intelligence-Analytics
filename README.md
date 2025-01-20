@@ -80,8 +80,8 @@ While this repository is primarily a personal learning record, contributions are
 
 ---
 
-**Author**: Fatemeh Sepehrpour 
-**Contact**: fateme.sepehrpour@gmail.com
+**Author**: [Fatemeh Sepehrpour]  
+**Contact**: [fateme.sepehrpour@gmail.com]  
 
 ---
 
